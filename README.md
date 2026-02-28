@@ -69,17 +69,4 @@ npm run build && npm start
 
 The server starts on `http://localhost:3000`.
 
-## Deploy to Render (Free)
 
-1. Push code to GitHub.
-2. Go to [render.com](https://render.com) → **New** → **Blueprint**.
-3. Connect your GitHub repo — Render will detect `render.yaml` automatically.
-4. It will provision a free PostgreSQL database and web service.
-5. After deploy, your endpoint is live at `https://<service-name>.onrender.com/identify`.
-
-## Tech Stack
-
-- **Runtime:** Node.js + TypeScript
-- **Framework:** Express
-- **ORM:** Prisma
-- **Database:** PostgreSQL
