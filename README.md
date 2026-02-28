@@ -5,7 +5,7 @@ A web service that identifies and consolidates customer contact information acro
 ## Live Endpoint
 
 ```
-POST https://<your-render-url>/identify
+POST https://<bitespeed-identity-reconciliation-3l5v.onrender.com>/identify
 ```
 
 ## How it Works
